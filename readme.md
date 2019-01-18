@@ -1,5 +1,5 @@
-Bcrypt for Delphi
-==================
+Bcrypt for C#
+=============
 
 [Bcrypt](http://en.wikipedia.org/wiki/Bcrypt) is an algorithm designed for hashing passwords, and only passwords; i.e. it:
 
