@@ -108,4 +108,4 @@ Bcrypt variants
      **Bonus Reading**: OpenBSD mailing list item [*"bcrypt version changes"*](http://marc.info/?l=openbsd-misc&m=139320023202696) (2/24/2014)
 
 
-Originally created by [Derek Slager](http://derekslager.com/blog/posts/2007/10/bcrypt-dotnet-strong-password-hashing-for-dotnet-and-mono.ashx]
+Originally created by [Derek Slager](http://derekslager.com/blog/posts/2007/10/bcrypt-dotnet-strong-password-hashing-for-dotnet-and-mono.ashx)
